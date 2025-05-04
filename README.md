@@ -87,15 +87,22 @@ A Counter-Strike Mod for Minecraft which brings the thrill of opening cases to m
 ### Wandering Trader 
 - Sells CSGO Case Key
 - Sells Certain Cases at a discounted price
+## Sounds
+### Case Sounds
+- Place Sound
+- Unlock Sound
+- Open Sound
+### Bomb Sounds
+- Place Sound
+- Ticking Sound
+- Explosion Sound
+- Start Defuse Sound
+- Finish Defuse Sound
 ## Extra Features
 - Bomb
 - Defuse Kit
 - Gun Holding Animation
 # Potential Upcoming Features
-## Sounds
-Adding case sounds  
-Adding bomb sounds  
-Adding defusing sounds
 ## Gun Shooting 
 Adding ability to use guns
 # Whats Needed
