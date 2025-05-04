@@ -1,4 +1,4 @@
-// 1.20.1	2024-09-09T19:11:39.2513501	Recipes
+// 1.20.1	2024-09-13T18:10:24.9949159	Recipes
 550d8a339f68921e023b2d28d9b5508c2cc24925 data/minecraft/advancements/recipes/misc/fifty_pound_note_create.json
 000dcceff4a8b8cf4b842568f358a56117dc2e05 data/minecraft/advancements/recipes/misc/five_pound_note_create.json
 83ef811c884ad2aae9bcce7e9f5e350477b70ee9 data/minecraft/advancements/recipes/misc/five_pound_note_from_twenty_pound_note.json
@@ -18,6 +18,6 @@ ffb3b1585f506c40668bfe67d8230b223336599a data/minecraft/recipes/pound_coin_creat
 78376bc13171d10e168f3bc7da41dbef65394e69 data/minecraft/recipes/ten_p_coin_create.json
 8d593a28cbcab075bf2f10b211a8ecb99a52e23e data/minecraft/recipes/ten_p_coin_from_twenty_p_coin.json
 f2dbe6141125af91c963e2ade72378496659752f data/minecraft/recipes/twenty_pound_note_create.json
-bce2376cba9a7ec3b1d2625abf5298e626fb13ab data/minecraft/recipes/twenty_pound_note_from_fifty_pound_note.json
+e61b2300a63ccc9f02e323078216fab7c8c6f22e data/minecraft/recipes/twenty_pound_note_from_fifty_pound_note.json
 9baf1eda63893ac71577c82eb437d3e5be083c4e data/minecraft/recipes/twenty_p_coin_create.json
 61de42e41a1112508e3eb14bab67ac3b9c0e345e data/minecraft/recipes/twenty_p_coin_from_pound_coin.json

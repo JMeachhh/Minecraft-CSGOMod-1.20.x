@@ -94,6 +94,16 @@
   "entity.minecraft.villager.csgomod.prismatrader": "Prisma Trader",
   "entity.minecraft.villager.csgomod.spectrumtwotrader": "Spectrum Two Trader",
 
+  "sounds.csgomod.bomb_defuse": "Bomb Defused Sound",
+  "sounds.csgomod.bomb_explode": "Bomb Explosion",
+  "sounds.csgomod.bomb_placed_and_ticking": "Bomb Placed Sound",
+  "sounds.csgomod.bomb_start_defuse": "Bomb Start Defuse Sound",
+  "sounds.csgomod.case_open": "Case Open Sound",
+  "sounds.csgomod.case_placed": "Case Placed Sound",
+  "sounds.csgomod.case_unlocked": "Case Unlock Sound",
+
+
+
   "creativetab.cases_tab": "Cases",
   "creativetab.weapons_tab": "Weapons",
   "creativetab.currency_tab": "Currency",

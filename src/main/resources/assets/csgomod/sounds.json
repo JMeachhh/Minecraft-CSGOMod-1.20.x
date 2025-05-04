@@ -1,0 +1,43 @@
+{
+  "bomb_defuse": {
+    "subtitle": "sounds.csgomod.bomb_defuse",
+    "sounds": [
+      "csgomod:bomb_defuse"
+    ]
+  },
+  "bomb_explode": {
+    "subtitle": "sounds.csgomod.bomb_explode",
+    "sounds": [
+      "csgomod:bomb_explode"
+    ]
+  },
+  "bomb_placed_and_ticking": {
+    "subtitle": "sounds.csgomod.bomb_placed_and_ticking",
+    "sounds": [
+      "csgomod:bomb_placed_and_ticking"
+    ]
+  },
+  "bomb_start_defuse": {
+    "subtitle": "sounds.csgomod.bomb_start_defuse",
+    "sounds": [
+      "csgomod:bomb_start_defuse"
+    ]
+  },
+  "case_open": {
+    "subtitle": "sounds.csgomod.case_open",
+    "sounds": [
+      "csgomod:case_open"
+    ]
+  },
+  "case_placed": {
+    "subtitle": "sounds.csgomod.case_placed",
+    "sounds": [
+      "csgomod:case_placed"
+    ]
+  },"case_unlocked": {
+  "subtitle": "sounds.csgomod.case_unlocked",
+  "sounds": [
+    "csgomod:case_unlocked"
+  ]
+}
+}
